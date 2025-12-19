@@ -32,6 +32,7 @@ npm run build
 ```
 
 ## 项目结构
+```
 ├── .vuepress/          # VuePress 配置目录
 │   ├── config.js       # VuePress 配置文件
 │   └── public/         # 静态资源目录
@@ -44,3 +45,4 @@ npm run build
 ├── .gitignore          # Git 忽略文件
 ├── README.md           # 项目说明文档
 └── node_modules/       # 依赖包
+```
